@@ -1,0 +1,4 @@
+1.flask
+2.numpy
+3.pandas
+4.gunicorn
